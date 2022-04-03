@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/-Class-based-NewsMonkey-components/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/-Class-based-NewsMonkey-components/static/js/main.3507cd97.chunk.js",
+    "main.js.map": "/-Class-based-NewsMonkey-components/static/js/main.3507cd97.chunk.js.map",
+    "runtime-main.js": "/-Class-based-NewsMonkey-components/static/js/runtime-main.1e776491.js",
+    "runtime-main.js.map": "/-Class-based-NewsMonkey-components/static/js/runtime-main.1e776491.js.map",
+    "static/js/2.f685cf71.chunk.js": "/-Class-based-NewsMonkey-components/static/js/2.f685cf71.chunk.js",
+    "static/js/2.f685cf71.chunk.js.map": "/-Class-based-NewsMonkey-components/static/js/2.f685cf71.chunk.js.map",
+    "static/js/3.7b1aac63.chunk.js": "/-Class-based-NewsMonkey-components/static/js/3.7b1aac63.chunk.js",
+    "static/js/3.7b1aac63.chunk.js.map": "/-Class-based-NewsMonkey-components/static/js/3.7b1aac63.chunk.js.map",
+    "index.html": "/-Class-based-NewsMonkey-components/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/-Class-based-NewsMonkey-components/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.f685cf71.chunk.js.LICENSE.txt": "/-Class-based-NewsMonkey-components/static/js/2.f685cf71.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1e776491.js",
+    "static/js/2.f685cf71.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.3507cd97.chunk.js"
+  ]
+}
